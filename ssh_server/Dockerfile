@@ -1,3 +1,5 @@
+#docker run -it -p 2222:2222 image:1.0
+
 FROM ubuntu:20.04
 
 LABEL MAINTAINER = "Sumsuddin Shojib"
